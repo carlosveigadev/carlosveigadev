@@ -1,4 +1,4 @@
-#<h1 align="center">Hi 👋, I'm Carlos Veiga</h1>
+<h1 align="center">Hi 👋, I'm Carlos Veiga</h1>
 <h3 align="center">Inspired to become a Full-Stack Developer.</h3>
 
 - 🌱 I’m currently on **Microverse**
@@ -14,7 +14,9 @@
 
 <br>
 
-<span align='center'>![Quote](https://github-readme-quotes.herokuapp.com/quote)</span>
+![Quote](https://github-readme-quotes.herokuapp.com/quote)
 
-<span align='center'><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wrakc&layout=compact"> [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wrakc)](https://github.com/anuraghazra/github-readme-stats)</span>
+
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wrakc&layout=compact"> 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wrakc)](https://github.com/anuraghazra/github-readme-stats)
 
