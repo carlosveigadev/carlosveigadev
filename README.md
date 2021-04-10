@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm 
- Veiga</h1>
+<h1 align="center">Hi 👋, I'm Carlos Veiga</h1>
 <h3 align="center">Inspired to become a Full-Stack Developer.</h3>
 
 - 🌱 I’m currently on **Microverse**
