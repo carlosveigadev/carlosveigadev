@@ -27,7 +27,10 @@
  <a href="https://redux.js.org" target="_blank"> <img src="https://redux.js.org/img/redux.svg" alt="redux" width="40" height="40"/> </a> 
  <a href="https://sass-lang.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/> </a> 
  <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
- <a href="https://webpack.js.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/> </a> </p>
+ <a href="https://webpack.js.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/> </a> 
+ <a href="https://chakra-ui.com/" target="_blank"> <img src="https://img.stackshare.io/service/12421/rzylUjaf_400x400.jpg" alt="chakra-ui" width="40" height="40"/> </a> 
+</p>
+ 
 
 [![Carlos github stats](https://github-readme-stats.vercel.app/api?username=carlosveigadev)](https://github.com/anuraghazra/github-readme-stats)
 
