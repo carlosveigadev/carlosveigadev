@@ -2,7 +2,7 @@
 <h3 align="center">Inspired to become a Full-Stack Developer.</h3>
 
 - 🌱 I’m currently on **Microverse**
-- Check my [Portfolio](carlosveiga.tech)
+- Check my <a href="https://carlosveiga.tech" target="blank">Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
