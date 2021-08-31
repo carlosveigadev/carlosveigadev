@@ -45,6 +45,8 @@
 
 ---
 
-<center>
-[![Carlos github stats](https://github-readme-stats.vercel.app/api?username=carlosveigadev)](https://github.com/anuraghazra/github-readme-stats)
-</center>
+<div align="center">
+ <a href="https://github.com/carlosveigadev" align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosveigadev&show_icons=true&theme=synthwave" />
+ </a>
+ </div>
