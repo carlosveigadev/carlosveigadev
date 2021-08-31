@@ -4,24 +4,27 @@
 - 🌱 I’m currently on **Microverse**
 - Check my <a href="https://carlosveiga.tech" target="blank">Portfolio</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center" background="lightblue">
 <a href="https://twitter.com/carlosveigadev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="carlosveigadev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/carlosveigadev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="carlosveigadev" height="30" width="40" /></a>
  <a href="https://angel.co/u/carlosveiga" target="blank"><img align="center" src="https://simpleicons.org/icons/angellist.svg" alt="carlosveiga" height="30" width="40" /></a>
 </p>
 
+---
 
-<h3 align="left">Languages:</h3>
-<p align="left"> 
+<h3 align="center">Languages:</h3>
+<p align="center"> 
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg" alt="css" width="40" height="40"/> </a> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> </a> 
  <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">Tools:</h3>
-<p align="left"> 
+---
+
+<h3 align="center">Tools:</h3>
+<p align="center"> 
  <a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a> 
  <a href="https://redux.js.org" target="_blank"> <img src="https://redux.js.org/img/redux.svg" alt="redux" width="40" height="40"/> </a> 
  <a href="https://sass-lang.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/> </a> 
@@ -40,8 +43,8 @@
 </p>
 
 
+---
 
- 
-
+<center>
 [![Carlos github stats](https://github-readme-stats.vercel.app/api?username=carlosveigadev)](https://github.com/anuraghazra/github-readme-stats)
-
+</center>
