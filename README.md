@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Carlos Veiga</h1>
 <h3 align="center">Inspired to become a Full-Stack Developer.</h3>
 
-- 🌱 I’m currently on **Microverse**
+- 💻 I’m currently at **Plathanus**, working for 
+<a href="https://tabas.com/" target="blank">Tabas</a>
 - Check my <a href="https://carlosveiga.tech" target="blank">Portfolio</a>
 
 <h3 align="center">Connect with me:</h3>
