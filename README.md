@@ -2,7 +2,7 @@
 <h3 align="center">Inspired to become a Full-Stack Developer.</h3>
 
 - 💻 I’m currently at **Plathanus**, working for 
-<a href="https://tabas.com/" target="_blank">Tabas</a>
+<a href="https://www.theblueground.com/" target="_blank">Blueground</a>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center" background="lightblue">
