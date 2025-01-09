@@ -7,7 +7,6 @@
 <p align="center" background="lightblue">
 <a href="https://twitter.com/carlosveigadev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="carlosveigadev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/carlosveigadev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="carlosveigadev" height="30" width="40" /></a>
- <a href="https://angel.co/u/carlosveiga" target="blank"><img align="center" src="https://simpleicons.org/icons/angellist.svg" alt="carlosveiga" height="30" width="40" /></a>
 </p>
 
 ---
@@ -29,8 +28,8 @@
  <a href="https://sass-lang.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/> </a>&nbsp;&nbsp; 
  <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>&nbsp;&nbsp; 
  <a href="https://webpack.js.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/> </a>&nbsp;&nbsp; 
- <a href="https://chakra-ui.com/" target="_blank"> <img src="https://img.stackshare.io/service/12421/rzylUjaf_400x400.jpg" alt="chakra-ui" width="40" height="40"/> </a>&nbsp;&nbsp; 
- <a href="https://rubyonrails.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Ruby_on_Rails_logo.svg" alt="rails" width="40" height="40"/> </a>&nbsp;&nbsp; 
+ <a href="https://chakra-ui.com/" target="_blank"> <img src="https://simpleicons.org/icons/chakraui.svg" alt="chakra-ui" width="40" height="40"/> </a>&nbsp;&nbsp; 
+ <a href="https://rubyonrails.org" target="_blank"> <img src="https://simpleicons.org/icons/rubyonrails.svg" alt="rails" width="40" height="40"/> </a>&nbsp;&nbsp; 
  <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a>&nbsp;&nbsp; 
  <a href="https://www.postgresql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> </a>&nbsp;&nbsp; 
  <a href="https://aws.amazon.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a>&nbsp;&nbsp; 
